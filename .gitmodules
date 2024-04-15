@@ -1,0 +1,4 @@
+[submodule "scikit-learn"]
+	path = scikit-learn
+	url = ./scikit-learn
+	datalad-id = 57c0213b-b63c-41dc-ac18-7bd0275d4309
